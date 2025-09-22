@@ -31,3 +31,7 @@ Brief description of the task.
 ## PostgreSQL / Database Notes
 (Optional) Any info about storing or processing scan results in PostgreSQL.
 
+
+![Nmap Scan Command](your_nmap_command.png)
+![Nmap Scan Results](your_nmap_results.png)
+
